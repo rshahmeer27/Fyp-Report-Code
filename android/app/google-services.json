@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "571343756037",
+    "project_id": "skoop-e9628",
+    "storage_bucket": "skoop-e9628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571343756037:android:52ee63e3400867a7d5b56c",
+        "android_client_info": {
+          "package_name": "com.example.skoopApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571343756037-2sa2n9qalqihl7f4hf5ibbb51boit1ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skoopApp",
+            "certificate_hash": "5ed84b4759c1af4e951920b511af1b2a62fd043f"
+          }
+        },
+        {
+          "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUvHGORz319nFOjvHWKwcwHUk3E-z5bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571343756037:android:b28045906dfb6760d5b56c",
+        "android_client_info": {
+          "package_name": "com.example.skoopRestaurantApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571343756037-krd689515qasi9l1j4194g3f7uu7vece.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skoopRestaurantApp",
+            "certificate_hash": "5ed84b4759c1af4e951920b511af1b2a62fd043f"
+          }
+        },
+        {
+          "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUvHGORz319nFOjvHWKwcwHUk3E-z5bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571343756037:android:61b77942ca379ad1d5b56c",
+        "android_client_info": {
+          "package_name": "com.orixity.skoopCustomerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUvHGORz319nFOjvHWKwcwHUk3E-z5bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571343756037:android:de4d0b7b477afdf6d5b56c",
+        "android_client_info": {
+          "package_name": "com.orixity.skoopRestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUvHGORz319nFOjvHWKwcwHUk3E-z5bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571343756037-skimqn3thi8guekk1arc8t9oobavptf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
